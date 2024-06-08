@@ -36,6 +36,10 @@ h1 {
     border-radius: 15px;
 }
 
+.abstract-image {
+    margin-bottom: 16px;
+}
+
 .abstract-image img {
     border-radius: 15px;
     width: 100%;
