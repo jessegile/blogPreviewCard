@@ -51,6 +51,10 @@ h1 {
     margin-bottom: 16px;
 }
 
+.yellow-block p {
+    font-weight: 800;
+}
+
 .yellow-block p span{
     background: hsl(47, 88%, 63%);
     padding: 10px;
